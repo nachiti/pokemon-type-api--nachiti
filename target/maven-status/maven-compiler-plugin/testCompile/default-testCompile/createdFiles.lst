@@ -1,0 +1,6 @@
+com/ifi/trainer_api/repository/TrainerRepositoryTest.class
+com/ifi/trainer_api/bo/TrainerTest.class
+com/ifi/trainer_api/bo/PokemonTest.class
+com/ifi/trainer_api/controller/TrainerControllerIntegrationTest.class
+com/ifi/trainer_api/controller/TrainerControllerTest.class
+com/ifi/trainer_api/service/TrainerServiceImplTest.class

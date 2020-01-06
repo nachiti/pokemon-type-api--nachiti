@@ -1,0 +1,8 @@
+com/ifi/trainer_api/config/SecurityConfig.class
+com/ifi/trainer_api/bo/Trainer.class
+com/ifi/trainer_api/Application.class
+com/ifi/trainer_api/service/TrainerServiceImpl.class
+com/ifi/trainer_api/bo/Pokemon.class
+com/ifi/trainer_api/repository/TrainerRepository.class
+com/ifi/trainer_api/controller/TrainerController.class
+com/ifi/trainer_api/service/TrainerService.class
